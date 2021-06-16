@@ -23,7 +23,15 @@ handleThingsList();
 
 ## Cách sử dụng
 
-Hiện mình đã chạy cho tới phần bird_list. Các bạn chạy phần sau nếu muốn chạy lại từ đầu cũng được. \
+Mình sẽ có các mảng dữ liệu như bên dưới :
+```
+people_list_vi = ["Kinh", "Ba na", "Chăm"]
+people_list_bana = ["Kinh", "Bơhnar", "Chăm"]
+...
+```
+Chạy hàm `augmentSentences(...);` để làm giàu dữ liệu
+Hiện mình đã chạy cho tới phần `bird_list`. Các bạn có thể tiếp tục phần sau hoặc nếu muốn chạy lại từ đầu cũng được. \
 Nhớ là mỗi lần chạy xong nhớ phải kiểm tra dữ liệu xem câu có nghĩa hay không để lọc rồi mới chạy phần tiếp theo, mình có đoạn print `...Converted sentence is...` ra các phần làm giàu ở hàm augmentSentences, nếu thấy câu nào không đúng thì tìm kiếm trong file output để loại bỏ câu đó (bỏ câu sai bên tiếng Việt và Bana tương ứng).
 
-Lưu ý: Chạy từng theo thứ tự các mảng để lọc từng phần sẽ dễ dàng hơn là chạy một lượt rồi lọc.
+Lưu ý: Chạy từng theo thứ tự các mảng để lọc từng phần, lúc đó dữ liệu ít sẽ dễ dàng lọc hơn là chạy một lượt rồi lọc.
+Có phần mình comment `can not use` là vì sau khi chạy xong mình thấy không sử dụng được nên skip mảng đó.
