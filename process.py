@@ -9,8 +9,9 @@ vocative_list_subject_upper_vi = ["Ba", "Bố", "Mẹ", "Má", "Cô", "Dì", "Ch
 vocative_list_subject_upper_bana = ["'Bă", "'Bă", "Mĭ", "Mĭ", "Duch", "Duch", "Ma", "Mih", "'Bă 'băn", "'Bă yăng", "'Bok", "Yă",
                                     "'Nhŏng", "'Nhŏng", "Mai", "Mai",
                                     "Mi", "Duch", "Duch", "Ma"]
-vocative_list_subject_normal_vi = ["Em", "Mày", "Con", "Cháu"]
-vocative_list_subject_normal_bana = ["Oh", "Ih", "Kon", "Mon"]
+
+people_list_vi = ["Kinh", "Ba na", "Chăm"]
+people_list_bana = ["Kinh", "Bơhnar", "Chăm"]
 
 time_list_adverb_vi = ["Hôm nay", "Ngày hôm nay", "Buổi sáng", "Buổi chiều", "Buổi tối", "Ngày mai", "Ngày kia",
                        "Bình minh", "Lúc trước", "Lúc nãy", "Lúc đó", "Khi đó", "Lúc đầu", "Hoàng hôn", "Sáng sớm",
@@ -21,30 +22,26 @@ time_list_adverb_bana = ["'Năr adrơ̆u", "'Năr adrơ̆u", "Bơgê", "Jơnang 
                          "'Năr iơ̆u",
                          "'Năr iơ̆u", "'Năr jrang", "'Năr tơman", "'Năr tơmĕt", "'Năr yơ ơ̆u", "Ahrĕi ơ̆u", "Ahrĕi ơ̆u",
                          "Bơgê", "Trong bơgê", "Sơnăm anô̆"]
+
 number_list_vi = ["Một", "1", "Hai", "2", "Ba", "3", "Bốn", "4", "Năm", "5", "Sáu", "6", "Bảy", "7", "Tám", "8", "Chín",
                   "9", "Mười", "10", "Một ngàn", "1000", "Một trăm", "100"]
 number_list_bana = ["Minh", "1", "'Bal", "2", "Pêng", "3", "Puôn", "4", "Đăm", "5", "Dơdrơ̆u", "6", "Tơpơh", "7",
                     "Tơhngam", "8", "Sĭn",
                     "9", "Minh jĭt", "10", "Minh abơ̆u", "1000", "Minh hriêng", "100"]
-color_list_vi = ["Màu tím", "Màu trắng", "Tím", "Trắng", "Màu vàng", "Vàng", "Màu xanh", "Xanh", "Màu đỏ", "Đỏ",
-                 "Màu đen", "Đen"]
-color_list_bana = ["Yưm", "'Bak", "Yưm", "'Bak", "'Brơ̆u", "'Brơ̆u", "Kơsĕ", "Kơsĕ", "Gôh", "Gôh",
-                   "Găm", "Găm"]
-use_things_list_vi = ["Quần áo", "Áo", "Quần", "Dao rựa", "Dao phát", "Dao", "Cái kéo", "Kéo"]
-use_things_list_bana = ["Kuơ̆n au", "Au", "Kuơ̆n", "Dơbưk", "Dơbưk muih", "Săng", "Săng chơkep", "Săng chơkep"]
+
+action_talk_list_vi = ["Hỏi", "Đáp lời", "Đáp", "Trả lời", "Trả lời"]
+action_talk_list_bana = ["Apinh", "Tơ'bơ̆l", "Tơ'bơ̆l", "Akhan ăn", "Tơ'bơ̆l"]
 
 universe_things_list_vi = ["Mặt trời", "Mặt trăng", "Ngôi sao", "Sao mai", "Sao hôm"]
 universe_things_list_bana = ["Măt 'năr", "Măt khăi", "Sơnglŏng", "Sơnglŏng bơgê", "Sơnglŏng tong măng"]
 
-body_list_vi = ["Mắt", "Miệng", "Mồm", "Miệng", "Mồm", "Tay", "Chân"]
-body_list_bana = ["Măt", "'Bơ̆l", "'Bơ̆r", "'Bơ̆l", "'Bơ̆r", "Ti", "Jưng"]
+color_list_vi = ["Màu tím", "Màu trắng", "Tím", "Trắng", "Màu vàng", "Vàng", "Màu xanh", "Xanh", "Màu đỏ", "Đỏ",
+                 "Màu đen", "Đen"]
+color_list_bana = ["Yưm", "'Bak", "Yưm", "'Bak", "'Brơ̆u", "'Brơ̆u", "Kơsĕ", "Kơsĕ", "Gôh", "Gôh",
+                   "Găm", "Găm"]
 
-fruit_list_vi = ["Chanh", "Chanh", "Bưởi", "Cam", "Quýt", "Chuối lùn", "Chuối tiêu", "Chuối", "Ớt"]
-fruit_list_bana = ["Kruôĭ chanh", "Chanh", "Kruôĭ 'bŏng", "Kruôĭ 'ngam", "Kruôĭ 'ngam", "Pit pha", "Pit pdơnang", "Pit",
-                   "Amrĕ"]
-
-measure_list_vi = ["km", "cây số", "Mét"]
-measure_list_bana = ["kơ̆i sô̆", "kơ̆i sô̆", "Met"]
+use_things_list_vi = ["Quần áo", "Áo", "Quần", "Dao rựa", "Dao phát", "Dao", "Cái kéo", "Kéo"]
+use_things_list_bana = ["Kuơ̆n au", "Au", "Kuơ̆n", "Dơbưk", "Dơbưk muih", "Săng", "Săng chơkep", "Săng chơkep"]
 
 animal_list_vi = ["Trâu", "Gà", "Lợn", "Chó", "Ngựa", "Con ngựa", "Vịt", "Cá", "Dê", "Chim", "Mèo rừng", "Mèo", "Khỉ"]
 animal_list_bana = ["Kơpô", "'Yer", "Nhŭng", "Kŏ", "Aseh", "Aseh", "Ada", "Ka", "Bơbê", "Sem", "Meu bri", "Meu", "Đŏk"]
@@ -58,6 +55,21 @@ bird_list_bana = ["Chơrau", "Chơrau", "Sem diê̆", "Sem diê", "Kơtơp", "K�
                   "Sem kơtơp", "Sem kơwơng", "Pơsel yang yai", "Yang yai",
                   "Sem kring", "Sem kring", "Sem lơ-oh", "Sem lơ-oh"]
 
+
+### ============================== TỪ ĐÂY XUỐNG DƯỚI CHƯA CHẠY ============================
+vocative_list_subject_normal_vi = ["Em", "Mày", "Con", "Cháu"]
+vocative_list_subject_normal_bana = ["Oh", "Ih", "Kon", "Mon"]
+
+body_list_vi = ["Mắt", "Miệng", "Mồm", "Miệng", "Mồm", "Tay", "Chân"]
+body_list_bana = ["Măt", "'Bơ̆l", "'Bơ̆r", "'Bơ̆l", "'Bơ̆r", "Ti", "Jưng"]
+
+fruit_list_vi = ["Chanh", "Chanh", "Bưởi", "Cam", "Quýt", "Chuối lùn", "Chuối tiêu", "Chuối", "Ớt"]
+fruit_list_bana = ["Kruôĭ chanh", "Chanh", "Kruôĭ 'bŏng", "Kruôĭ 'ngam", "Kruôĭ 'ngam", "Pit pha", "Pit pdơnang", "Pit",
+                   "Amrĕ"]
+
+measure_list_vi = ["km", "cây số", "Mét"]
+measure_list_bana = ["kơ̆i sô̆", "kơ̆i sô̆", "Met"]
+
 plant_list_vi = ["Trúc", "Cây trúc", "Tre"]
 plant_list_bana = ["Kram yai", "Kram yai", "Kram"]
 
@@ -66,12 +78,6 @@ direction_list_bana = ["Ala", "Ala", "Nhơ̆i", "Nhơ̆i", "Đưng rŏng", "Đư
 
 characteristic_list_vi = ["Độc ác", "Chân thật", "Thật thà", ]
 characteristic_list_bana = ["Brư̆ kơnĕ", "Tơpăt klak", "Tơpăt klak", ]
-
-people_list_vi = ["Kinh", "Ba na", "Chăm"]
-people_list_bana = ["Kinh", "Bơhnar", "Chăm"]
-
-action_talk_list_vi = ["Hỏi", "Đáp lời", "Đáp", "Trả lời", "Trả lời"]
-action_talk_list_bana = ["Apinh", "Tơ'bơ̆l", "Tơ'bơ̆l", "Akhan ăn", "Tơ'bơ̆l"]
 
 week_day_list_vi = []
 week_day_list_bana = []
