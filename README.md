@@ -1,1 +1,1 @@
-# bana-ocr
+# bana-augmentation
